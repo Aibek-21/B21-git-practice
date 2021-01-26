@@ -6,5 +6,6 @@ public class Hello {
         //we did more changes on master branch
         //movie on the phone
         //movie on the phone 20 min
+        //another final 10 min, before going back to living room
     }
 }
